@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "commander": "^12.1.0",
-    "lighthouse": "^8.3.0",
+    "lighthouse": "^12.2.1",
     "shelljs": "^0.8.4"
   }
 }
