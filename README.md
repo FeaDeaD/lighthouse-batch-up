@@ -1,5 +1,7 @@
 ## Lighthouse Batch Reporter
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d48dfa7cbbd46c291b408b40f49aea4)](https://app.codacy.com/gh/FeaDeaD/lighthouse-batch-up?utm_source=github.com&utm_medium=referral&utm_content=FeaDeaD/lighthouse-batch-up&utm_campaign=Badge_Grade)
+
 Supports executing
 [Lighthouse](https://developers.google.com/web/tools/lighthouse) analysis over a
 number of sites in sequence and generating a summary report including all of
