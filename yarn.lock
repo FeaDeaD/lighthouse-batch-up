@@ -329,10 +329,10 @@
   dependencies:
     "@opentelemetry/core" "^1.1.0"
 
-"@paulirish/trace_engine@0.0.56":
-  version "0.0.56"
-  resolved "https://registry.yarnpkg.com/@paulirish/trace_engine/-/trace_engine-0.0.56.tgz#ccadcc0ff837237a31519b39d974b109b0865505"
-  integrity sha512-iLBbdTlQXJSMMGi4beZloqJ120Re4YWcYN/TSDeufbfS209DOWDSiHQVzIq2rme0FEfN+BR3BcIwZaAY9thn3g==
+"@paulirish/trace_engine@0.0.57":
+  version "0.0.57"
+  resolved "https://registry.yarnpkg.com/@paulirish/trace_engine/-/trace_engine-0.0.57.tgz#051a49b07c93fb36e57074859ab1dcc97bbc1ba1"
+  integrity sha512-s+JNJ53B1MiEqCOD2hnK96wFTRRStxFmtm6QaIe2jiNI+lkS9mYEgnHOH2caQ/dEPn6wY+f2u5dW6aFYjmbaiw==
   dependencies:
     legacy-javascript latest
     third-party-web latest
@@ -1075,11 +1075,11 @@ lighthouse-stack-packs@1.12.2:
   integrity sha512-Ug8feS/A+92TMTCK6yHYLwaFMuelK/hAKRMdldYkMNwv+d9PtWxjXEg6rwKtsUXTADajhdrhXyuNCJ5/sfmPFw==
 
 lighthouse@^12.2.1:
-  version "12.7.1"
-  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-12.7.1.tgz#9bc494796aedfaa227756160ab140ce89323fc7e"
-  integrity sha512-AfiLXG8gnisMPFqNK4+Y36A+JrirTYsogIiuIL1pQsAkwPHaTnBXN+ldt+TiLssEbKIkIpaWhViDQjUJbrbxnQ==
+  version "12.8.0"
+  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-12.8.0.tgz#38a680417d1235be77cecc9ee5bfef66de15335a"
+  integrity sha512-MNmHLGRsaApxrigFl6M4FSvat8opl6K4MnBRWdU3yEaTH5pzrDSWjdIL2cBdCoV7OgAD1Cy/cdBiXR+ZzdsBNw==
   dependencies:
-    "@paulirish/trace_engine" "0.0.56"
+    "@paulirish/trace_engine" "0.0.57"
     "@sentry/node" "^9.28.1"
     axe-core "^4.10.3"
     chrome-launcher "^1.2.0"
